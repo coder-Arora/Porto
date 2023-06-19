@@ -5,20 +5,28 @@ export const CardContainer = styled.div`
 /* max-width:300px; */
 /* overflow:hidden; */
 /* border: 2px solid purple; */
-max-width: 200px;
-min-height: 150px;
+min-width: 300px;
+min-height: 200px;
 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  /* transition: 0.3s; */
+background-color: white;
+ 
   padding: 2px 16px;
-  margin: 10px 10px;
+  /* margin: 10px 10px; */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  &:hover{
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+     transition: 0.3s;
+
+  }
+ 
   
 
 
-/* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  */`
+`
 
 
 

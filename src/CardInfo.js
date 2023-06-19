@@ -12,6 +12,6 @@ describe:"Latest home interior design collection. "
 {
     img:"./Images/Exterior-design.png",
     title:"Exterior Design",
-    describe:"Exterior design includes your home's size and shape."
+    describe:"Exterior design  home's size and shape."
 }
 ] 
